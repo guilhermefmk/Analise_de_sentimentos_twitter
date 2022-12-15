@@ -13,6 +13,6 @@ Com o objetivo de verificar se os dados capturados pelo twitter de alguma forma 
 * Py libs: PySpark, Geopy
 
 ## Resultado
-![projeto](imgs/Entrega_final.pdf)
-![projeto1](imgs/Entrega_final1.pdf)
-![projeto2](imgs/Entrega_final2.pdf)
+![projeto1](imgs/Entrega_final.png)
+![projeto2](imgs/Entrega_final1.png)
+![projeto3](imgs/Entrega_final2.png)
