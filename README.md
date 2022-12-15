@@ -10,7 +10,9 @@ Com o objetivo de verificar se os dados capturados pelo twitter de alguma forma 
 ## Ferramentas utilizadas
 
 * AWS: Glue, Athena and S3
-* Py libs: PySpark, Geopy
+* PySpark: Para processamento dos dados
+* Geopy: para captação de localidade
+* nltk: Análise de sentimentos com vader
 
 ## Resultado
 ![projeto1](imgs/Entrega_final.png)
