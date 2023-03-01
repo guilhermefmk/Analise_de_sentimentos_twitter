@@ -1,4 +1,4 @@
-# Analise compartiva Twitter x Eleições presidenciais 2022
+# Analise comparativa Twitter x Eleições presidenciais 2022
 
 Estudo comparativo entre os dados disponibilizados pelo TSE em relação ao segundo turno das eleições de 2022 e os dados capturados via análise sentimental do twitter. 
 
