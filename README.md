@@ -15,6 +15,10 @@ This project aims to analyze the sentiment of tweets related to the two candidat
 -   AWS Athena
 -   Power BI
 
+## Architecture
+
+![arquitetura](imgs/projetofinal.drawio.svg)
+
 ## Process
 
 1.  **Data collection**: The Twitter API is used to collect tweets containing specific keywords related to the candidates.
